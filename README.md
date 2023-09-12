@@ -4,7 +4,7 @@ O repositório "Projeto Integrador" agrupa os arquivos do projeto Freela-Social 
 
 ## Quem é o grupo 3?
 
-<img src="![FotoMariaJulia](https://github.com/Fonsekmj/Projeto_Integrador/assets/140460135/faebadce-32c1-4c45-92fe-d74447737c9a)")
+![FotoMariaJulia](https://github.com/Fonsekmj/Projeto_Integrador/assets/140460135/faebadce-32c1-4c45-92fe-d74447737c9a)")
 
 Olá, eu sou a Maria Júlia! Tenho 21 anos e sou estudante de engenharia, para mim a programação é um grande hobbie. Eu amo tecnologia e tudo que ela tem a nos oferecer!
 Discord: fonsekmj#8816
