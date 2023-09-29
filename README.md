@@ -1,36 +1,66 @@
-# Bem-vindo ao repositório do Projeto Integrador (Grupo 3)
+# Projeto Integrador
+
+### Bem-vindo ao repositório do Projeto Integrador (Grupo 3)
 
 O repositório "Projeto Integrador" agrupa os arquivos do projeto Freela-Social desenvolvido durante o curso de introdução a programação pelo grupo três com supervisão do professor Randerson Melville.
 
-## Quem é o grupo 3?
+![logo](https://github.com/Fonsekmj/Projeto_Integrador/assets/140460135/f7cb6a41-1f44-467c-8b77-d9cd3861087d)
 
-![FotoMariaJulia](https://github.com/Fonsekmj/Projeto_Integrador/assets/140460135/faebadce-32c1-4c45-92fe-d74447737c9a)
+### Índice:
 
-Olá, eu sou a Maria Júlia! Tenho 21 anos e sou estudante de engenharia, para mim a programação é um grande hobbie. Eu amo tecnologia e tudo que ela tem a nos oferecer!
-Discord: fonsekmj#8816
-Linkedin: linkedin.com/in/mariajuliafl
-Github: https://github.com/Fonsekmj
+- <a href="#Como-a-idéia-surgiu?"> Como a idéia surgiu? </a>
+- <a href="#Quem-e-o-grupo-tres?"> Quem é o grupo três? </a>
+- <a href="#Desafios"> Desafios! </a>
+- <a href="#Tecnologias-utilizadas"> Tecnologias utilizadas: </a>
+- <a href="#Agradecimentos"> Agradecimentos: </a>
 
-<img src="fotointegrante2."> 
-Resumo integrante 2
+## Como a idéia surgiu?
 
+O Projeto FREELASocial surgiu de duas idéias que combinavam muito! A primeira era construir um projeto de cunho social, que pudesse transformar a vida de pessoas em vúlnerabilidade dando a elas oportunidade de maior estabilidade financeira e crescimento profissional, a segunda, era a criação de uma plataforma que tornasse a busca por um emprego mais fácil e agilizada. Pronto. Quem mais sofre com o periodo de desemprego? Pessoas em vúlnerabilidade. 
 
-<img src="fotointegrante3."> 
-Resumo integrante 3
+## Quem é o grupo três?
 
-## Um pouco sobre o curso:
+Atualmente o grupo é formado pela Maria Júlia, Paulo e Flávio. 
 
-Resumo sobre o curso e o propósito do projeto
+### Maria Julia:
 
-## Um pouco sobre a nossa idéia: Freela-Social
+Estudante de Engenharia Mecânica e Técnica em Automação Indústrial, Apaixonada por Técnologia.
 
-Resumo da idéia do projeto
+- github: https://github.com/Fonsekmj
+- LinkedIN: https://www.linkedin.com/in/mariajuliafl
 
-## Tecnologias & Estatisticas
+### Paulo:
 
-Linguagens utilizadas, % e afins
+Resumo.
 
-# Organização
+- github: 
+- LinkedIN:
 
-Nosso trello:
-Nosso Protótipo Figma: 
+### Flávio:
+
+Resumo.
+
+- github: 
+- LinkedIN:
+
+## Desafios!
+
+Apesar de hoje, nosso grupo ter apenas três participantes, em nossa formação anterior contávamos com a colaboração dos desenvolvedores listados abaixo á quem agradecemos pela participação em nosso projeto e desejamos sucesso em suas carreiras!
+
+Ana Alice Honório
+Carlo Seixas
+Viviane Garcia
+
+## Tecnologias utilizadas:
+
+- CSS
+- HTML5
+- JavaScript
+- Figma: https://www.figma.com/file/mbe7dUPQqVue9LLHImiJX6/SPRINT-I---GRUPO-3?type=design&node-id=0-1&mode=design
+- Trello: https://trello.com/b/BVFVrTKu/group-three
+- Visual Studio Code
+- Canva
+
+## Agradecimentos:
+
+Este projeto só foi possivel graças ao projeto de ensino guiado pela PROZ Educação em parceria com as empresas AWS e Meta totalmente gratuito. Logo, separamos este local especial para homenagear os colaboradores Randerson Melville, Pam de Bortoli e Orlando Neto, que nos acompanharam de perto e nos incentivaram a nos desenvolver como pessoas e profissionais. 
