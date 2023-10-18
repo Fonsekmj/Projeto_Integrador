@@ -64,3 +64,7 @@ Viviane Garcia
 ## Agradecimentos:
 
 Este projeto só foi possivel graças ao projeto de ensino guiado pela PROZ Educação em parceria com as empresas AWS e Meta totalmente gratuito. Logo, separamos este local especial para homenagear os colaboradores Randerson Melville, Pam de Bortoli e Orlando Neto, que nos acompanharam de perto e nos incentivaram a nos desenvolver como pessoas e profissionais. 
+
+## Apresentação Final
+
+https://www.canva.com/design/DAFxk59TFME/cOHOD-4ku8Fd5Bd_3TbXLQ/edit?utm_content=DAFxk59TFME&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
